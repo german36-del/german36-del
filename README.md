@@ -15,7 +15,7 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![LangChain Badge](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)](https://langchain.com/)
 
-### 😉 More About Me
+### 😊 More About Me
 
 - 🚀 Passionate Computer Vision/NLP Engineer 
 - 👀 Revolutionizing the way machines see and understand the world.
