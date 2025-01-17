@@ -14,7 +14,7 @@
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![LangChain Badge](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)](https://langchain.com/)
-
+[![Linux Badge]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)(https://www.linux.org/)
 ### 😊 More About Me
 
 - 🚀 Passionate Computer Vision/NLP Engineer 
